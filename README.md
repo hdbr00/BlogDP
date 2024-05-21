@@ -58,4 +58,3 @@ Using Dapper, relationships between tables are implemented:
 ### Additional Features
 
 - Access to All Source Files: The project includes all necessary source files to understand and extend the functionality of the blog.
-- Questions and Answers Section: A dedicated s
